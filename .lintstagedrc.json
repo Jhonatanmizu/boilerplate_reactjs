@@ -1,4 +1,4 @@
 {
-  "*.{ts,tsx}": ["eslint --fix", "vitest --passWithNoTests"],
+  "*.{ts,tsx}": ["eslint --fix", "vitest run"],
   "src/**/*.tsx": ["eslint --fix -c .eslintrc.json"]
 }
