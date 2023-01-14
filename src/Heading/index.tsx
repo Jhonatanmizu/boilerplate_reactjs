@@ -1,6 +1,10 @@
+import React from 'react';
+
 interface Props {
   text?: string;
 }
-export default function Heading({ text }: Props) {
+const Heading: React.FC<Props> = ({ text }: Props) => {
   return <h1>{text}</h1>;
-}
+};
+
+export default Heading;
