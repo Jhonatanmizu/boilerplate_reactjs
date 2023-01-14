@@ -1,0 +1,4 @@
+{
+  "*.{ts,tsx}": ["eslint --fix", "vitest --passWithNoTests"],
+  "*.scss": ["stylelint --syntax scss --fix", "git add"]
+}
