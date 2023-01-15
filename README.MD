@@ -1,4 +1,4 @@
-# MY CUSTOM BOILERPLATE USING REACT
+# My custom boilerplate using React
 
 ## Technologies that I use :
 
