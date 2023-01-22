@@ -19,10 +19,10 @@ for code style in this boilerplate we use prettier with eslint, to make sure our
 
 ### How to use
 
-- 1 - We need the basic tools: nodejs, a code editor I personally recomend vscode,  coffee and git.
+- 1 - We need the basic tools: nodejs, a code editor I personally recommend vscode,  coffee and git.
 - 2 - We need to clone the template using the command: ***npx degit https://github.com/Jhonatanmizu/boilerplate_reactjs my-project-name***
 - 3 - We need to install the dependencies of the project running ***yarn*** to install all libs, if you does not have yarn  installed on your machine please run ***npm i -g yarn*** to install yarn.
-- 4 - Now we can run the boileplate with ***yarn dev***
+- 4 - Now we can run the boilerplate with ***yarn dev***
 
 
 ### Author
